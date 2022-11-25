@@ -9,7 +9,7 @@ image:
   repository: kostiscodefresh/gitops-simple-app
   tag: v1.0
 imagePullSecrets: []
-nameOverride: ""
+nameOverride: "TheLittleApplication"
 fullnameOverride: ""
 
 serviceAccount:
